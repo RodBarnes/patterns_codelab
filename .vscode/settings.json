@@ -1,3 +1,3 @@
 {
-    "terminal.integrated.cwd": "/mnt/Data/Development/Source/GitHub/Linux/sample/flutter/patterns_codelab"
+    "terminal.integrated.cwd": "${workspaceFolder} "
 }
